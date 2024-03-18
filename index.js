@@ -7,6 +7,9 @@ const port = process.env.PORT || 3000;
 
 
 app.use(express.json())
+app.use(cors, {
+    origin: "*"
+})
 
 app.get('/', (req, res) => res.send('Hello World!'))
 app.use('/auth0', route)
