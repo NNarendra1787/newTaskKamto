@@ -13,7 +13,7 @@ app.use(cors({
 }))
 
 app.get('/', (req, res) => res.send('Hello World!'))
-app.use('/auth0', route)
+app.use('/data', route)
 
 const ConnectServerToDatabase = async()=>{
     try{
