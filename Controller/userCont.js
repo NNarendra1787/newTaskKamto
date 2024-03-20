@@ -31,6 +31,9 @@ const RegisterUsers = async(req, res)=>{
         msg: "User Register Successfully 🥳🥳😍🥳🥳",
         userId: result._id,
         token: token,
+        name: name,
+        email:email,
+        contact: contact,
         result:result,
       })
     }
