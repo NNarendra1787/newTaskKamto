@@ -5,6 +5,7 @@ const route = require('express').Router();
 
 route.post("/auth0/register", RegisterUsers);
 route.post("/auth0/login", LoginUser);
+
 route.post("/addData", AddData)
 route.post("/addChartData", AddChatData)
 

@@ -8,34 +8,34 @@ const RegisterUsers = async(req, res)=>{
   try{
     const RgData = req.body;
     const {name, contact, email, password, userId} = RgData;
-    const userInfo = await Users.findOne({email: email});
+    const userData = await Users.findOne({email: email});
 
-    if(userInfo){
+    if(userData){
       return res.send({msg: "User Already Existed 😊😍😍😃"})
     }
     else{
       const salt = bcrypt.genSaltSync(saltRound);
       const hashPassword = bcrypt.hashSync(password, salt);
-      const token = await jwt.sign({userInfo: userInfo}, process.env.SecreatKey,{expiresIn: "5m"})
+      const token = await jwt.sign({Data: userData}, process.env.SecreatKey,{expiresIn: "5m"})
 
-      const userDataObj = await Users({
+      const DetailsObj = await Users({
         name: name,
         contact: contact,
         email: email,
-        password: hashPassword
-      })
+        password: hashPassword,
+      });
 
-      const result = await userDataObj.save();
+      const result = await DetailsObj.save();
 
       return res.send({
         msg: "User Register Successfully 🥳🥳😍🥳🥳",
         userId: result._id,
         token: token,
         name: name,
-        email:email,
+        email: email,
         contact: contact,
-        result:result,
-      })
+        result: result,
+      });
     }
   }
   catch(err){
@@ -45,8 +45,8 @@ const RegisterUsers = async(req, res)=>{
 
 const LoginUser = async(req, res)=>{
   try{
-    const logUser = req.body;
-    const {email, password} = logUser;
+    const LogUser = req.body;
+    const {email, password} = LogUser;
     const userData = await Users.findOne({email: email})
 
     if(userData){
@@ -58,7 +58,7 @@ const LoginUser = async(req, res)=>{
         return res.send({
           msg: "User Login SuccessFully 😃😍🥳🙋‍♂️",
           token: token,
-          userData: userData
+          userData: userData,
         })
       }else{
         return res.send({
