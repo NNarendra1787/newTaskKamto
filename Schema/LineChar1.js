@@ -1,29 +1,29 @@
 const mongoose = require('mongoose');
 
 const Chart = new mongoose.Schema({
-    id :{
+    no:{
         type: Number,
-        required: true,
+        // required: true,
     },
     ChartNo:{
         type: Number,
-        required: true,
+        // required: true,
     },
     Date: {
         type: String,
-        required: true,
+        // required: true,
     },
     CurrentPeriod: {
         type: Number,
-        required: true,
+        // required: true,
     },
     PreviousPeriod: {
         type: Number,
-        required: true,
+        // required: true,
     },
     CharteTime:{
         type: String,
-        required: true,
+        // required: true,
     },
 
 })

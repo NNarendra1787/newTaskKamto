@@ -5,6 +5,10 @@ const UserData = new mongoose.Schema({
         type: String,
         required: true,
     },
+    lname: {
+        type: String,
+        required: true,
+    },
     contact: {
         type: Number,
         required: [true,'phone number is required'],

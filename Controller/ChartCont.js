@@ -23,22 +23,27 @@ const AddChatData = async (req, res) => {
     try{
 
         const data = req.body;
-        const { id, ChartNo, Date, CurrentPeriod, PreviousPeriod, CharteTime } =
-        data;
+        const { no, ChartNo, Date, CurrentPeriod, PreviousPeriod, CharteTime } = data;
         const Result = await LineChart.create({
-            id,
-            ChartNo,
-            CurrentPeriod,
-            PreviousPeriod,
-            Date,
-            CharteTime,
+          no,
+          ChartNo,
+          Date,
+          CurrentPeriod,
+          PreviousPeriod,
+          CharteTime
         });
         
         return res.send({ msg: "User data has been Stored", Result });
     }catch(e){
-        return res.send({err: e})
+        return res.send()
     }
 };
+
+const DeleteData = async(req, res)=>{
+  const Data = req.body;
+
+}
+
 
 module.exports = {
   AddChatData,

@@ -1,6 +1,6 @@
 [
     {
-        "id":1, 
+        "no":1, 
         "ChartNo":1, 
         "Date": "2023-10-1", 
         "CurrentPeriod": 65, 
@@ -8,7 +8,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":2, 
+        "no":2, 
         "ChartNo":1, 
         "Date": "2023-10-2", 
         "CurrentPeriod": 153, 
@@ -16,7 +16,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":3, 
+        "no":3, 
         "ChartNo":1, 
         "Date": "2023-10-3", 
         "CurrentPeriod": 232, 
@@ -24,7 +24,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":4, 
+        "no":4, 
         "ChartNo":1, 
         "Date": "2023-10-4", 
         "CurrentPeriod": 318, 
@@ -32,7 +32,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":5, 
+        "no":5, 
         "ChartNo":1, 
         "Date": "2023-10-5", 
         "CurrentPeriod": 416, 
@@ -40,7 +40,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":6, 
+        "no":6, 
         "ChartNo":1, 
         "Date": "2023-10-6", 
         "CurrentPeriod": 479, 
@@ -48,7 +48,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":7, 
+        "no":7, 
         "ChartNo":1, 
         "Date": "2023-10-7", 
         "CurrentPeriod": 546, 
@@ -56,7 +56,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":8, 
+        "no":8, 
         "ChartNo":1, 
         "Date": "2023-10-8", 
         "CurrentPeriod": 630, 
@@ -64,7 +64,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":9, 
+        "no":9, 
         "ChartNo":1, 
         "Date": "2023-10-9", 
         "CurrentPeriod": 701, 
@@ -72,7 +72,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":10, 
+        "no":10, 
         "ChartNo":1, 
         "Date": "2023-10-10", 
         "CurrentPeriod": 777, 
@@ -80,7 +80,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":11, 
+        "no":11, 
         "ChartNo":1, 
         "Date": "2023-10-11", 
         "CurrentPeriod": 835, 
@@ -88,7 +88,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":12, 
+        "no":12, 
         "ChartNo":1, 
         "Date": "2023-10-12", 
         "CurrentPeriod": 897, 
@@ -96,7 +96,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":13, 
+        "no":13, 
         "ChartNo":1, 
         "Date": "2023-10-13", 
         "CurrentPeriod": 985, 
@@ -104,7 +104,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":14, 
+        "no":14, 
         "ChartNo":1, 
         "Date": "2023-10-14", 
         "CurrentPeriod": 1066, 
@@ -112,7 +112,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":15, 
+        "no":15, 
         "ChartNo":1, 
         "Date": "2023-10-15", 
         "CurrentPeriod": 1160, 
@@ -122,7 +122,7 @@
 
     // Chart Second Data
     {
-        "id":16, 
+        "no":16, 
         "ChartNo":2, 
         "Date": "2023-10-1", 
         "CurrentPeriod": 88, 
@@ -130,7 +130,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":17, 
+        "no":17, 
         "ChartNo":2, 
         "Date": "2023-10-2", 
         "CurrentPeriod": 98, 
@@ -138,7 +138,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":18, 
+        "no":18, 
         "ChartNo":2, 
         "Date": "2023-10-3", 
         "CurrentPeriod": 84, 
@@ -146,7 +146,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":19, 
+        "no":19, 
         "ChartNo":2, 
         "Date": "2023-10-4", 
         "CurrentPeriod": 50, 
@@ -154,7 +154,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":20, 
+        "no":20, 
         "ChartNo":2, 
         "Date": "2023-10-5", 
         "CurrentPeriod": 82, 
@@ -162,7 +162,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":21, 
+        "no":21, 
         "ChartNo":2, 
         "Date": "2023-10-6", 
         "CurrentPeriod": 89, 
@@ -170,7 +170,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":22, 
+        "no":22, 
         "ChartNo":2, 
         "Date": "2023-10-7", 
         "CurrentPeriod": 68, 
@@ -178,7 +178,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":23, 
+        "no":23, 
         "ChartNo":2, 
         "Date": "2023-10-8", 
         "CurrentPeriod": 93, 
@@ -186,7 +186,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":24, 
+        "no":24, 
         "ChartNo":2, 
         "Date": "2023-10-9", 
         "CurrentPeriod": 89, 
@@ -194,7 +194,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":25, 
+        "no":25, 
         "ChartNo":2, 
         "Date": "2023-10-10", 
         "CurrentPeriod": 84, 
@@ -202,7 +202,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":26, 
+        "no":26, 
         "ChartNo":2, 
         "Date": "2023-10-11", 
         "CurrentPeriod": 75, 
@@ -210,7 +210,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":27, 
+        "no":27, 
         "ChartNo":2, 
         "Date": "2023-10-12", 
         "CurrentPeriod": 85, 
@@ -218,7 +218,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":28, 
+        "no":28, 
         "ChartNo":2, 
         "Date": "2023-10-13", 
         "CurrentPeriod": 77, 
@@ -226,7 +226,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":29, 
+        "no":29, 
         "ChartNo":2, 
         "Date": "2023-10-14", 
         "CurrentPeriod": 68, 
@@ -234,7 +234,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":30, 
+        "no":30, 
         "ChartNo":2, 
         "Date": "2023-10-15", 
         "CurrentPeriod": 83, 
@@ -244,7 +244,7 @@
 
     // Chart3
     {
-        "id":31, 
+        "no":31, 
         "ChartNo":3, 
         "Date": "2023-10-1", 
         "CurrentPeriod": 1, 
@@ -252,7 +252,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":32, 
+        "no":32, 
         "ChartNo":3, 
         "Date": "2023-10-2", 
         "CurrentPeriod": 9, 
@@ -260,7 +260,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":33, 
+        "no":33, 
         "ChartNo":3, 
         "Date": "2023-10-3", 
         "CurrentPeriod": 7, 
@@ -268,7 +268,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":34, 
+        "no":34, 
         "ChartNo":3, 
         "Date": "2023-10-4", 
         "CurrentPeriod": 1, 
@@ -276,7 +276,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":35, 
+        "no":35, 
         "ChartNo":3, 
         "Date": "2023-10-5", 
         "CurrentPeriod": 8, 
@@ -284,7 +284,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":36, 
+        "no":36, 
         "ChartNo":3, 
         "Date": "2023-10-6", 
         "CurrentPeriod": 10, 
@@ -292,7 +292,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":37, 
+        "no":37, 
         "ChartNo":3, 
         "Date": "2023-10-7", 
         "CurrentPeriod": 2, 
@@ -300,7 +300,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":38, 
+        "no":38, 
         "ChartNo":3, 
         "Date": "2023-10-8", 
         "CurrentPeriod": 9, 
@@ -308,7 +308,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":39, 
+        "no":39, 
         "ChartNo":3, 
         "Date": "2023-10-9", 
         "CurrentPeriod": 5, 
@@ -316,7 +316,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":40, 
+        "no":40, 
         "ChartNo":3, 
         "Date": "2023-10-10", 
         "CurrentPeriod": 9, 
@@ -324,7 +324,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":41, 
+        "no":41, 
         "ChartNo":3, 
         "Date": "2023-10-11", 
         "CurrentPeriod": 1, 
@@ -332,7 +332,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":42, 
+        "no":42, 
         "ChartNo":3, 
         "Date": "2023-10-12", 
         "CurrentPeriod": 8, 
@@ -340,7 +340,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":43, 
+        "no":43, 
         "ChartNo":3, 
         "Date": "2023-10-13", 
         "CurrentPeriod": 6, 
@@ -348,7 +348,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":44, 
+        "no":44, 
         "ChartNo":3, 
         "Date": "2023-10-14", 
         "CurrentPeriod": 6, 
@@ -356,7 +356,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":45, 
+        "no":45, 
         "ChartNo":3, 
         "Date": "2023-10-15", 
         "CurrentPeriod": 2, 
@@ -366,7 +366,7 @@
 
     // Chart4 Data
     {
-        "id":46, 
+        "no":46, 
         "ChartNo":4, 
         "Date": "2023-10-1", 
         "CurrentPeriod": 71, 
@@ -374,7 +374,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":47, 
+        "no":47, 
         "ChartNo":4, 
         "Date": "2023-10-2", 
         "CurrentPeriod": 67, 
@@ -382,7 +382,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":48, 
+        "no":48, 
         "ChartNo":4, 
         "Date": "2023-10-3", 
         "CurrentPeriod": 81, 
@@ -390,7 +390,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":49, 
+        "no":49, 
         "ChartNo":4, 
         "Date": "2023-10-4", 
         "CurrentPeriod": 58, 
@@ -398,7 +398,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":50, 
+        "no":50, 
         "ChartNo":4, 
         "Date": "2023-10-5", 
         "CurrentPeriod": 63, 
@@ -406,7 +406,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":51, 
+        "no":51, 
         "ChartNo":4, 
         "Date": "2023-10-6", 
         "CurrentPeriod": 95, 
@@ -414,7 +414,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":52, 
+        "no":52, 
         "ChartNo":4, 
         "Date": "2023-10-7", 
         "CurrentPeriod": 95, 
@@ -422,7 +422,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":53, 
+        "no":53, 
         "ChartNo":4, 
         "Date": "2023-10-8", 
         "CurrentPeriod": 91, 
@@ -430,7 +430,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":54, 
+        "no":54, 
         "ChartNo":4, 
         "Date": "2023-10-9", 
         "CurrentPeriod": 76, 
@@ -438,7 +438,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":55, 
+        "no":55, 
         "ChartNo":4, 
         "Date": "2023-10-10", 
         "CurrentPeriod": 86, 
@@ -446,7 +446,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":56, 
+        "no":56, 
         "ChartNo":4, 
         "Date": "2023-10-11", 
         "CurrentPeriod": 54, 
@@ -454,7 +454,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":57, 
+        "no":57, 
         "ChartNo":4, 
         "Date": "2023-10-12", 
         "CurrentPeriod": 69, 
@@ -462,7 +462,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":58, 
+        "no":58, 
         "ChartNo":4, 
         "Date": "2023-10-13", 
         "CurrentPeriod": 60, 
@@ -470,7 +470,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":59, 
+        "no":59, 
         "ChartNo":4, 
         "Date": "2023-10-14", 
         "CurrentPeriod": 69, 
@@ -478,7 +478,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":60, 
+        "no":60, 
         "ChartNo":4, 
         "Date": "2023-10-15", 
         "CurrentPeriod": 96, 
@@ -488,7 +488,7 @@
 
     //Chart 5
     {
-        "id":61, 
+        "no":61, 
         "ChartNo":5, 
         "Date": "2023-10-1", 
         "CurrentPeriod": 5.66, 
@@ -496,7 +496,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":62, 
+        "no":62, 
         "ChartNo":5, 
         "Date": "2023-10-2", 
         "CurrentPeriod": 5.44, 
@@ -504,7 +504,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":63, 
+        "no":63, 
         "ChartNo":5, 
         "Date": "2023-10-3", 
         "CurrentPeriod": 5.40, 
@@ -512,7 +512,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":64, 
+        "no":64, 
         "ChartNo":5, 
         "Date": "2023-10-4", 
         "CurrentPeriod": 4.84, 
@@ -520,7 +520,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":65, 
+        "no":65, 
         "ChartNo":5, 
         "Date": "2023-10-5", 
         "CurrentPeriod": 5.03, 
@@ -528,7 +528,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":66, 
+        "no":66, 
         "ChartNo":5, 
         "Date": "2023-10-6", 
         "CurrentPeriod": 5.15, 
@@ -536,7 +536,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":67, 
+        "no":67, 
         "ChartNo":5, 
         "Date": "2023-10-7", 
         "CurrentPeriod": 4.93, 
@@ -544,7 +544,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":68, 
+        "no":68, 
         "ChartNo":5, 
         "Date": "2023-10-8", 
         "CurrentPeriod": 4.87, 
@@ -552,7 +552,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":69, 
+        "no":69, 
         "ChartNo":5, 
         "Date": "2023-10-9", 
         "CurrentPeriod": 4.83, 
@@ -560,7 +560,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":70, 
+        "no":70, 
         "ChartNo":5, 
         "Date": "2023-10-10", 
         "CurrentPeriod": 4.64, 
@@ -568,7 +568,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":71, 
+        "no":71, 
         "ChartNo":5, 
         "Date": "2023-10-11", 
         "CurrentPeriod": 4.66, 
@@ -576,7 +576,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":72, 
+        "no":72, 
         "ChartNo":5, 
         "Date": "2023-10-12", 
         "CurrentPeriod": 4.51, 
@@ -584,7 +584,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":73, 
+        "no":73, 
         "ChartNo":5, 
         "Date": "2023-10-13", 
         "CurrentPeriod": 4.47, 
@@ -592,7 +592,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":74, 
+        "no":74, 
         "ChartNo":5, 
         "Date": "2023-10-14", 
         "CurrentPeriod": 4.35, 
@@ -600,7 +600,7 @@
         "CharteTime":"Last 3 Months"
     },
     {
-        "id":75, 
+        "no":75, 
         "ChartNo":5, 
         "Date": "2023-10-15", 
         "CurrentPeriod": 4.33, 
